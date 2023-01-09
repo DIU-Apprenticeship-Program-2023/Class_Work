@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+        <record id="action_Student_Result" model="ir.actions.act_window">
+            <field name="name">Name</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">Student.Result</field>
+            <field name="view_mode">tree,form</field>
+
+        
+        </record>
+    
+    </data>
+</odoo>
